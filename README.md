@@ -1,1 +1,1 @@
-My second local repo
+My second local repo.
